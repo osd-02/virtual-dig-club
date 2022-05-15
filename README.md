@@ -3,7 +3,7 @@ create web app with react
 
 ## about
 - [notion](https://www.notion.so/web-app-virtual-dig-club-a53db3b9074d4c60bdfb3865b4fd7af0)
-- [whimsical](https://whimsical.com/pages-78J2zfDCeS4PYRS9pYH9rfp
+- [whimsical](https://whimsical.com/pages-78J2zfDCeS4PYRS9pYH9rfp)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
